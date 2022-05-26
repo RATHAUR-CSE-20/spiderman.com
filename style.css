@@ -1,0 +1,303 @@
+li{
+    list-style-type: none;
+}
+ul{
+    display:inline-flex;
+}
+.nav{
+    background-color:#b435ff;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+
+    
+}
+.a1{
+    margin-left: 650px;
+    transition: 1s;
+}
+.a1:hover{
+    color: black;
+    border-radius: 8px;
+    padding: 1px;
+    transition: 1s;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 40px;
+    margin-top: 2%;
+    font-size: 23px;
+    transition: 2s;
+}
+.a2:hover{
+    color: black;
+    text-rendering: geometricPrecision;
+    border-radius: 8px;
+    padding: 1px;
+    transition: 2s;
+}
+.l1{
+    color: white;
+    margin-top: 2%;
+    font-size: 25px;
+    margin-left: 40px;
+    transition: 2s;
+    font-family: cursive;
+    padding: 2px;
+    border: 1px ridge #b435ff;
+
+}
+.l1:hover{
+    transition: 2s;
+    cursor: pointer;
+    font-size: 25px;
+    border: 1px ridge white;
+    border-radius: 6px;
+    padding: 2px;
+    margin-left: 40px;
+}
+.div1{
+    width: 250px;
+    height: 200px;
+    background-color: #a30efa;
+    margin-top: -16px;
+    border-bottom-right-radius: 200px;
+}
+.div2{
+width: 250px;
+    height: 200px;
+    background-color: #a30efa;
+    margin-left: 82.7%;
+    margin-top: -214px;
+    border-bottom-left-radius: 200px;
+}
+.div3{
+        width: 200px;
+        height: 150px;
+        background-color: #a30efa;
+    margin-top: 280px;
+        border-top-right-radius: 250px;
+        border-bottom-right-radius: 250px;
+}
+.div4 {
+    width: 200px;
+    height: 150px;
+    background-color: #a30efa;
+    margin-top: -169px;
+    margin-left: 1166px;
+    border-top-left-radius: 250px;
+    border-bottom-left-radius: 250px;
+}
+.div5{
+    margin-left: 540px;
+    margin-right: 20%;
+    margin-top: -460px;
+}
+.btn{
+    border: 1px ridge purple;
+    width: 200px;
+    font-size: 25px;
+    margin-left: 105px;
+    transition: 2s;
+    border-radius: 5px;
+}
+.btn:hover{
+    transition: 3s;
+    color: white;
+    background-color: grey;
+    border-radius: 10px;
+    outline: 1px ridge goldenrod;
+}
+.img1{
+    border-radius: 5%;
+    width: 220px;
+    margin-top: -730px;
+    margin-left: 22%;   
+}
+#sgnin{
+    border: 1px ridge white;
+    border-radius: 20px;
+    padding: 0px 4px 2px 4px;
+    margin-top: px;
+}
+#sgnin:hover{
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    padding: 0px 4px 2px 4px;
+    transition: 2s;
+}
+.div6{
+    margin-top: 250px;
+    margin-left: 8%;
+    height: 250px;
+    text-align: center;
+    border:1px ridge purple;
+    margin-right: 68%;
+    transition: 3s;
+}
+.div6:hover,.div7:hover,.div8:hover,.div9:hover,.div10:hover,.div11:hover{
+    transition: 3s;
+    box-shadow: 4px 4px 20px purple;
+    cursor: pointer;
+}
+.div7 {
+    margin-top: -250px;
+    margin-left: 38%;
+    height: 250px;
+    text-align: center;
+    border: 1px ridge purple;
+    margin-right: 36%;
+    transition: 3s;
+}
+.div8 {
+    margin-top: -250px;
+    margin-left: 70%;
+    height: 250px;
+    text-align: center;
+    border: 1px ridge purple;
+    margin-right: 6%;
+    transition: 3s;
+}
+.heading4{
+    padding-bottom: 2px;
+    border-radius: 3px;
+    border-bottom: 1px solid purple;
+    transition: 2s;
+}
+.heading4:hover{
+    background-color: lightskyblue;
+    color: white;
+    cursor: pointer;
+}
+.div9{
+    margin-left: 8%;
+    margin-top:  3%;
+    margin-right: 68%;
+    height: 250px;
+    border: 1px ridge purple;
+    text-align: center;
+    transition: 3s;
+}
+.div10{
+    margin-left: 38%;
+    margin-right: 36%;
+    height: 250px;
+    border: 1px ridge purple;
+    text-align: center;
+    margin-top: -249px;
+    transition: 3s;
+}
+.div11 {
+    margin-left: 70%;
+    margin-right: 6%;
+    height: 250px;
+    border: 1px ridge purple;
+    text-align: center;
+    margin-top: -249px;
+    transition: 3s;
+}
+.btn0{
+    margin-right: 12%;
+    font-size: 19px;
+    border-radius: 3px;
+    transition: 2s;
+    background-color: white;
+}
+.ntmg{
+    margin-top: -15px;
+}
+.btn2{
+    font-size: 19px;
+    margin-right: 11%;
+    margin-top: 6%;
+    border-radius: 3px;
+    transition: 2s;
+    background-color: white;
+}
+.tstimg{
+    margin-top: -8px;
+}
+.btn3{
+    font-size: 19px;
+    margin-bottom: 10px;
+    margin-right: 11%;
+    border-radius: 3px;
+    background-color: white;
+    transition: 2s;
+}
+.btn0:hover,.btn2:hover,.btn3:hover{
+    transition: 2s;
+    border:1px ridge purple;
+    outline: 1px ridge goldenrod;
+    border-radius: 5px;
+    background-color: lightyellow;
+    color: #a30efa;
+}
+.like{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.inpt{
+    margin-left: 30.3%;
+    width: 390px;
+    height: 50px;
+    border-radius: 5px 20px 20px 5px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    margin-top: -10px;
+    transition: 2s;
+}
+.inpt:hover{
+  border-radius: 5px 20px 20px 5px;
+  box-shadow: 6px 6px 10px lightblue;
+  transition: 2s;
+  cursor: pointer;
+}
+.btn5{
+    border-radius: 20px;
+    height: 45px;
+    margin-left: -158px;
+     border-top: 2px;
+    border-bottom: 3px ;
+    border-right: 2px;
+    border-left: 2px solid black;
+    padding-bottom: 5.41px;
+    transition: 2s;
+}
+.btn5:hover{
+    transition: 2s;
+        border: 1px ridge purple;
+        outline: 1px ridge goldenrod;
+        border-radius: 5px 20px 20px 5px;
+        border-right: 2px solid white;
+        background-color: lightyellow;
+        color: #a30efa;
+}
+.div13{
+        width: 200px;
+        height: 150px;
+        background-color: #a30efa;
+        margin-top: 80px;
+        border-top-right-radius: 250px;
+        text-align: center;
+        border-bottom-right-radius: 250px;
+}
+.div14 {
+    width: 200px;
+    height: 150px;
+    background-color: #a30efa;
+    margin-top: -155px;
+    margin-left: 1166px;
+    border-top-left-radius: 250px;
+    border-bottom-left-radius: 250px;
+}
+.hdng3{
+   color: white; 
+   text-align: center;
+   margin-top: 5px;
+   font-size: 35px;
+   padding-top: 45px;
+}
